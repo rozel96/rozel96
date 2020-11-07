@@ -1,2 +1,20 @@
-# resulozel
-My personal repository
+
+### `rslozl`
+
+
+Hello, this is **Resul Özel**
+
+I'm a passionate **software developer** living in **Istanbul, Turkey**, working for [3Pounds](http://www.3pounds.io).
+I love **open source development** and I build things on my GitHub profile (here).
+I love **JavaScript** and **Java (and Swift)**.
+
+- 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/rslozl)
+- 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/resul-özel-3710601a1)
+
+
+## 📝 How to access my blog post
+
+[![Medium Badge](https://img.shields.io/badge/ResulOzel-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@rslozl)
+
+
+

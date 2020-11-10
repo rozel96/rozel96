@@ -48,7 +48,6 @@ I love **JavaScript** and **Java (and Swift)**.
 <br />
 <br />
 
----
 
 
 ## 📝 How to access my blog post

@@ -1,6 +1,6 @@
 
 ### Hi there <a href="https://www.resulozel.com.tr/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<img align="right" height="290" src="https://github.com/koseali/koseali/blob/main/Ali%20Kose_1.gif" />
+<img align="right" height="290" src="https://raw.githubusercontent.com/rozel96/rozel96/main/resul.gif" />
 
 Hello, this is **Resul Özel**
 
@@ -10,7 +10,7 @@ I love **JavaScript** and **Java (and Swift)**.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/rozel96)
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/resul-özel-3710601a1)
-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> Swift/ Java/ Python / VS Code. 
+- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> JavaScript/ Java/ Python / Web Storm. 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/koseali/koseali)
 ![pv](https://komarev.com/ghpvc/?username=koseali)

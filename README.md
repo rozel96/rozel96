@@ -8,8 +8,6 @@ I love **open source development** and I build things on my GitHub profile (here
 I love **JavaScript** and **Java (and Swift)**.
 <br/>
 <br/>
-<br/>
-
 
 <img align="right" height="290" src="https://raw.githubusercontent.com/rozel96/rozel96/main/resul.gif" />
 

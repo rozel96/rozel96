@@ -5,7 +5,7 @@
 Hello, this is **Resul Özel**
 I'm a passionate **software developer** living in **Istanbul, Turkey**, working for [3Pounds](http://www.3pounds.io).
 I love **open source development** and I build things on my GitHub profile (here).
-I love **JavaScript** and **Java (and Swift)**.
+I love **JavaScript** and **Java (and Engineering)**.
 <br/>
 <br/>
 

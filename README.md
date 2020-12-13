@@ -12,10 +12,10 @@ I love **JavaScript** and **Java (and Swift)**.
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/resul-özel-3710601a1)
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> JavaScript/ Java/ Python / Web Storm. 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/koseali/koseali)
-![pv](https://komarev.com/ghpvc/?username=koseali)
-![Years Badge](https://badges.pufler.dev/years/koseali)
-![Repos Badge](https://badges.pufler.dev/repos/koseali)
+![GitHub last commit](https://img.shields.io/github/last-commit/rozel96/rozel96)
+![pv](https://komarev.com/ghpvc/?username=rozel96)
+![Years Badge](https://badges.pufler.dev/years/rozel96)
+![Repos Badge](https://badges.pufler.dev/repos/rozel96)
 ![code](https://img.shields.io/badge/code%20quality-A++-success)
 
 <br/>

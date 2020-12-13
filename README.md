@@ -20,16 +20,6 @@ I love **JavaScript** and **Java (and Swift)**.
 
 <br/>
 
-
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
-
-
-
 ## 📝 How to access my blog post
 
 [![Medium Badge](https://img.shields.io/badge/ResulOzel-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@rslozl)

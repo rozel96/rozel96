@@ -3,10 +3,10 @@
 
 
 Hello, this is **Resul Özel**
-<img align="right" height="290" src="https://raw.githubusercontent.com/rozel96/rozel96/main/resul.gif" />
 I'm a passionate **software developer** living in **Istanbul, Turkey**, working for [3Pounds](http://www.3pounds.io).
 I love **open source development** and I build things on my GitHub profile (here).
 I love **JavaScript** and **Java (and Swift)**.
+<img align="right" height="290" src="https://raw.githubusercontent.com/rozel96/rozel96/main/resul.gif" />
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/rozel96)
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/resul-özel-3710601a1)

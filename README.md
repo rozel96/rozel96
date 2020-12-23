@@ -11,8 +11,7 @@ I love **JavaScript** and **Java (and Engineering)**.
 
 <img align="right" height="290" src="https://raw.githubusercontent.com/rozel96/rozel96/main/resul.gif" />
 
-- 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/rozel96)
-- 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/resul-özel-3710601a1)
+
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> JavaScript/ Java/ Web St. 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/rozel96/rozel96)

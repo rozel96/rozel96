@@ -3,8 +3,6 @@
   
 ### Hi there, I'm Resul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
-<img align="right" height="290" src="https://github.com/koseali/koseali/blob/main/Ali%20Kose_1.gif" />
-
 I'm a passionate **software developer** living in **Istanbul, Turkey**, working for [3Pounds](http://www.3pounds.io).
 I love **open source development** and I build things on my GitHub profile (here).
 I love **JavaScript** and **Java** (and Engineering).

@@ -10,7 +10,7 @@ I love **JavaScript** and **Java** (and Engineering).
 <br/>
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> JavaScript/ Java/ Web St. 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/rozel96/rslozl)
+![GitHub last commit](https://img.shields.io/github/last-commit/rslozl/rslozl)
 ![pv](https://komarev.com/ghpvc/?username=rslozl)
 ![Years Badge](https://badges.pufler.dev/years/rslozl)
 ![Repos Badge](https://badges.pufler.dev/repos/rslozl)

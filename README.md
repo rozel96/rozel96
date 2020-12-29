@@ -22,9 +22,6 @@ I love **JavaScript** and **Java (and Engineering)**.
 
 <br/>
 
-## 📝 How to access my blog post
-
-[![Medium Badge](https://img.shields.io/badge/ResulOzel-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@rslozl)
 
 
 

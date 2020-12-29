@@ -9,7 +9,6 @@ I love **JavaScript** and **Java (and Engineering)**.
 <br/>
 <br/>
 
-<img align="right" height="290" src="https://raw.githubusercontent.com/rozel96/rozel96/main/resul.gif" />
 
 
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> JavaScript/ Java/ Web St. 

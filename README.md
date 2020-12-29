@@ -6,6 +6,16 @@ Hello, this is **Resul Özel**
 I'm a passionate software developer living in Istanbul, Turkey, working for [3Pounds](http://www.3pounds.io).
 I love open source development and I build things on my GitHub profile (here).
 I love JavaScript and Java (and Engineering).
+
+### `npx fka`
+
+
+Hello, this is **Fatih Kadir Akın**
+
+I'm a passionate **software developer** living in **Istanbul, Turkey**, working for [Toolio](https://toolio.com).
+I **wrote a book** about **JavaScript**. I love being part of development of web technologies. I like to **organize conferences and give talks**.
+I love **open source development** and I build things on my GitHub profile (here).
+I love **JavaScript** and **Ruby (and RoR)**.
 <br/>
 <br/>
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> JavaScript/ Java/ Web St. 

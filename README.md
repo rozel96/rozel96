@@ -6,7 +6,7 @@
 I'm a passionate **Software Engineer** living in **Istanbul, Turkey**, working for [3Pounds](http://www.3pounds.io).
 I love **open source development** and I build things on my GitHub profile (here).
 I love **JavaScript** and **Java** (and Engineering).
-Interested in software development, computer sciences, mechanic, software engineering and anything related to engineering. 
+Interested in **software development**, **computer sciences**, **mechanic**,  and anything **related to engineering**. 
 <br/>
 
 

@@ -8,9 +8,3 @@ I love **open source development** and I build things on my GitHub profile.
 I love **JavaScript** , **Java Core** , **Python** , **Research** (and Engineering).
 Interested in **Software Development**, **Computer Sciences**, **Mechanical Systems** , **Mechanical Engineering** , **Electronic System** , **Science** and anything **related to engineering**. 
 <br/>
-
-
-## 📝 How to access my blog post
-
-[![Medium Badge](https://img.shields.io/badge/ResulOzel-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@rslozl)
-
